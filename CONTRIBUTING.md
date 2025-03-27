@@ -29,6 +29,8 @@ This can vary from an acknowledgment in the release notes to authorship in
 scientific publications.
 **Please refer to our [Authorship Guidelines][authorship]** for more
 information.
+**Please refer to our [Authorship Guidelines][authorship]** for more
+information.
 
 ## For maintainers
 
